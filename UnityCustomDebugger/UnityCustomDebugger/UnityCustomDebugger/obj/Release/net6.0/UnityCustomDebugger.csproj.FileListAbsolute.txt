@@ -1,0 +1,15 @@
+D:\WorkSpace\Library\UnityCustomDebugger\UnityCustomDebugger\UnityCustomDebugger\bin\Release\net6.0\UnityCustomDebugger.deps.json
+D:\WorkSpace\Library\UnityCustomDebugger\UnityCustomDebugger\UnityCustomDebugger\bin\Release\net6.0\UnityCustomDebugger.dll
+D:\WorkSpace\Library\UnityCustomDebugger\UnityCustomDebugger\UnityCustomDebugger\bin\Release\net6.0\UnityCustomDebugger.pdb
+D:\WorkSpace\Library\UnityCustomDebugger\UnityCustomDebugger\UnityCustomDebugger\bin\Release\net6.0\UnityEngine.dll
+D:\WorkSpace\Library\UnityCustomDebugger\UnityCustomDebugger\UnityCustomDebugger\bin\Release\net6.0\UnityEngine.xml
+D:\WorkSpace\Library\UnityCustomDebugger\UnityCustomDebugger\UnityCustomDebugger\obj\Release\net6.0\UnityCustomDebugger.csproj.AssemblyReference.cache
+D:\WorkSpace\Library\UnityCustomDebugger\UnityCustomDebugger\UnityCustomDebugger\obj\Release\net6.0\UnityCustomDebugger.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Library\UnityCustomDebugger\UnityCustomDebugger\UnityCustomDebugger\obj\Release\net6.0\UnityCustomDebugger.AssemblyInfoInputs.cache
+D:\WorkSpace\Library\UnityCustomDebugger\UnityCustomDebugger\UnityCustomDebugger\obj\Release\net6.0\UnityCustomDebugger.AssemblyInfo.cs
+D:\WorkSpace\Library\UnityCustomDebugger\UnityCustomDebugger\UnityCustomDebugger\obj\Release\net6.0\UnityCustomDebugger.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Library\UnityCustomDebugger\UnityCustomDebugger\UnityCustomDebugger\obj\Release\net6.0\UnityCustomDebugger.csproj.CopyComplete
+D:\WorkSpace\Library\UnityCustomDebugger\UnityCustomDebugger\UnityCustomDebugger\obj\Release\net6.0\UnityCustomDebugger.dll
+D:\WorkSpace\Library\UnityCustomDebugger\UnityCustomDebugger\UnityCustomDebugger\obj\Release\net6.0\refint\UnityCustomDebugger.dll
+D:\WorkSpace\Library\UnityCustomDebugger\UnityCustomDebugger\UnityCustomDebugger\obj\Release\net6.0\UnityCustomDebugger.pdb
+D:\WorkSpace\Library\UnityCustomDebugger\UnityCustomDebugger\UnityCustomDebugger\obj\Release\net6.0\ref\UnityCustomDebugger.dll
