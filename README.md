@@ -9,7 +9,7 @@ Custom debugger DLL
 namespace : UnityCustomDebugger <br>
 메소드
 ```csharp
-DEBUG.log(string message) <br>
-DEBUG.Warning(string message) <br>
-DEBUG.Error(string message) <br>
+DEBUG.log(string message)
+DEBUG.Warning(string message)
+DEBUG.Error(string message) 
 ```
